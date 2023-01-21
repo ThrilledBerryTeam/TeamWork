@@ -1,11 +1,11 @@
 # TeamWork
 
-Githup ' ta <Teamwork> adlı yeni repo oluşturulmuştur.
-TeamWork reposu default olarak main branch iken " dev brach " olarak değiştirilmiştir.
-Dev branch altında ise "feature/msp-1" oluşturulmuştur.
-TeamWork reposu altında herkes kendi adına bir şirket ismi belirlemelidir.
-Tüm çalışmalınızı "dev branch "altındaki oluşturacağınız "feature branch" push edebilirsiniz.
-Aşağıdaki komutlarını sırasıyla uygulayarak "feature branch" oluşurabilirsiniz.
+A new repo named <Teamwork> has been created in gitup.
+The TeamWork repo has been changed from main branch to " dev brach " by default.
+Under the dev branch, "feature/msp-1" has been created.
+Under the TeamWork repo, everyone must set a company name for themselves.
+You can push all your work to the "feature branch" that you will create under the "dev branch".
+You can create a "feature branch" by following the commands below.
 
 "git add .
 git commit -m 'added packaging script'
