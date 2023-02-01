@@ -1,6 +1,6 @@
 # TeamWork
 
-A new repo named <Teamwork> has been created in gitup.
+A new repo named <Teamwork> has been created in github.
 The TeamWork repo has been changed from main branch to " dev brach " by default.
 Under the dev branch, "feature/msp-1" has been created.
 Under the TeamWork repo, everyone must set a company name for themselves.
